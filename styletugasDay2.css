@@ -1,0 +1,128 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    line-height: 5cm;
+    margin: 0;
+    padding: 0;
+    background-color: #c6c6fc;
+    margin-top: 3cm;
+    margin-bottom: 3cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+header{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 8px;
+    text-align: center;
+    width: 10cm;
+    height: auto;
+    background-color: #1e3183;
+}
+.logo{
+    width: 100px;
+    height: auto;
+}
+.text{
+    line-height: 0.3cm;
+    font-size: 100%;
+    font-style: bold;
+    color: #fac8d7;
+}
+.text .nama{
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text .slogan{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.konten{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 0.5cm;
+    justify-content: justify;
+}
+
+.gambar{
+    display: flex;
+    justify-content: justify;
+    gap: 8px;
+    align-items: justify;
+    height: 8px;
+}
+.gambar .g1{
+    display: flex;
+    justify-content: justify;
+    width: 100px;
+    height: 100px;
+}
+.gambar .g2{
+    width: 150px;
+    height: 100px;
+}
+.gambar .g3{
+    width: 200px;
+    height: 100px;
+}
+.gambar .g4{
+    width: 250px;
+    height: 100px;
+}
+.gambar .g5{
+    width: 50px;
+    height: 100px;
+}
+
+
+.kotak{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    height: 200px;
+    margin: 2cm;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: #ff6996;
+    color: black;
+    font-size: 150%;
+    font-family: "Great Vibes", cursive;
+    font-style: normal;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: #ff6996;
+    color: black;
+    font-size: 150%;
+    font-family: "Great Vibes", cursive;
+    font-style: normal;
+}
+.box3{
+    width: 200px;
+    height: 100px;
+    background-color: #ff6996;
+    color: black;
+    font-size: 150%;
+    font-family: "Great Vibes", cursive;
+    font-style: normal;
+}
+.box4{
+    width: 50px;
+    height: 100px;
+    background-color: #ff6996;
+    color: black;
+    font-size: 150%;
+    font-family: "Great Vibes", cursive;
+    font-style: normal;
+}
